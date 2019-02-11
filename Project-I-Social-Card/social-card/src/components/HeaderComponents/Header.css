@@ -1,1 +1,13 @@
 /* All styles for your header Components live here */
+
+
+.headerContainer {
+    border: 1px solid red;
+    display: flex;
+}
+
+.lambdaLogo {
+    margin-top: 24px;
+    width: 10%;
+    height: 70px;
+}
