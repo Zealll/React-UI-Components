@@ -23,6 +23,7 @@ const App = () => {
       </p> */}
     </div>
   );
+  
 };
 
 export default App;
