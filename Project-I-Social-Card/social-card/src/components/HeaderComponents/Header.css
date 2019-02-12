@@ -1,1 +1,16 @@
 /* All styles for your header Components live here */
+
+
+.headerContainer {
+    display: flex;
+}
+
+.lambdaLogo {
+    margin-top: 24px;
+    width: 10%;
+    height: 70px;
+}
+
+.atSpan {
+    font-size: 1rem;
+}
