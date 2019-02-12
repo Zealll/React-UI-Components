@@ -18,6 +18,22 @@ const App = () => {
         <NumberButton numberButton="number" text="9"/>
         <NumberButton numberButton="red" text="X"/>
       </div>
+      <div className="flex">
+        <NumberButton numberButton="number" text="4"/>
+        <NumberButton numberButton="number" text="5"/>
+        <NumberButton numberButton="number" text="6"/>
+        <NumberButton numberButton="red" text="-"/>
+      </div>
+      <div className="flex">
+        <NumberButton numberButton="number" text="1"/>
+        <NumberButton numberButton="number" text="2"/>
+        <NumberButton numberButton="number" text="3"/>
+        <NumberButton numberButton="red" text="+"/>
+      </div>
+      <div className="flex">
+        <ActionButton actionButton="clear-zero" text="0"/>
+        <NumberButton numberButton="red" text="="/>
+      </div>
     </div>
     
     
