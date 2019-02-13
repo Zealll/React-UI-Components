@@ -1,0 +1,10 @@
+.appContainer {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.flex {
+    display: flex;
+    border: 1px solid black;
+}
